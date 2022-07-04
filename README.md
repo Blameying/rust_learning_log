@@ -7,3 +7,4 @@
   - ![screenshot](./images/ScreenShot_2022-07-02_at_17.44.42.jpg)
 - *7月3日* rustlings 错误处理的错误类型转换部分遇到了点问题，就是map_err函数，看着满屏的错误可太恶心了，所以刚进行到了generics部分。Happy Sunday。
   - 完成了rcore-os的lab1， 使用github的codespace，部分手册说的不太完整，但群友的反馈已经得到了修改。
+- *7月4日* 今天有些忙，skip
