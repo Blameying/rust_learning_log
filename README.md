@@ -9,3 +9,4 @@
   - 完成了rcore-os的lab1， 使用github的codespace，部分手册说的不太完整，但群友的反馈已经得到了修改。
 - *7月4日* 今天有些忙，skip
 - *7月5日* rustlings 完成quiz3, 包含traits, test 相关内容
+- *7月6日* rustlings 完成iterator
