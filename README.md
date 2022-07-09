@@ -10,3 +10,5 @@
 - *7月4日* 今天有些忙，skip
 - *7月5日* rustlings 完成quiz3, 包含traits, test 相关内容
 - *7月6日* rustlings 完成iterator
+- *7月9日* rustlings 完成, 代码地址为: [https://github.com/Blameying/rustlings](https://github.com/Blameying/rustlings)
+  下午上传到夏令营给出的codespace中进行评分
