@@ -12,3 +12,5 @@
 - *7月6日* rustlings 完成iterator
 - *7月9日* rustlings 完成, 代码地址为: [https://github.com/Blameying/rustlings](https://github.com/Blameying/rustlings)
   下午上传到夏令营给出的codespace中进行评分
+- *7月11日* 阅读rust权威指南的trait章节
+- *7月12日* rust-quiz完成 16/33
